@@ -16,6 +16,15 @@ PRODUCTS_MENU = """
 X. Go Back To Main Menu
 """
 
+CLIENTS_MENU = """
+1. Add Client
+2. Remove Client
+3. Update client
+4. Display All Clients
+X. Go Back To Main Menu
+"""
+
+
 products = {
     1: {
         'name': 'Monitor 21 inch',
@@ -90,6 +99,43 @@ def update_product():
     products[selected_id] = product_info
 
 
+def remove_client():
+    selected_id = int(input('Please select the client id to remove: '))
+    clients.pop(selected_id)
+
+
+def add_client():
+    # check if the id is used, if yes select another one
+    client_id = int(input('Please provide a client_id: '))
+    print(client_id in clients.keys())
+    last_name = input('Please provide a name: ')
+    first_name = input('Please provide a last name: ')
+    date_of_birth = input('Please provide a date of birth: ')
+    email = input('Please provide a stock: ')
+    client_info = {
+        'last_name': last_name,
+        'first_name': first_name,
+        'date_of_birth': date_of_birth,
+        'email': email
+    }
+    clients[client_id] = client_info
+    print(products[product_id]['category'])
+
+
+def update_client():
+    selected_id = int(input('please provide the id to update: '))
+    last_name = input('Please provide a name: ')
+    first_name = input('Please provide a last name: ')
+    date_of_birth = input('Please provide a date of birth: ')
+    email = input('Please provide an email: ')
+    client_info = {
+        'last_name': last_name,
+        'first_name': first_name,
+        'date_of_birth': date_of_birth,
+        'email': email
+    }
+    clients[selected_id] = client_info
+
 while True:
     print(MAIN_MENU)
 
@@ -116,6 +162,27 @@ while True:
                         display_products_menu = False
                     case _:
                         print('No such option!')
+        case '2':
+            display_clients_menu = True
+            while display_clients_menu:
+                print(CLIENTS_MENU)
+                option = input('Select an option from the clients menu: ').lower()
+
+                match option:
+                    case '1':
+                        add_client()
+                    case '2':
+                        remove_client()
+                    case '3':
+                        update_client()
+                    case '4':
+                        pprint(clients)
+                    case 'x':
+                        print('Going back to MAIN MENU')
+                        display_clients_menu = False
+                    case _:
+                        print('No such option!')
+
 
         case 'x':
             print('Exit!')
