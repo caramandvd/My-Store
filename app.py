@@ -1,4 +1,8 @@
 from pprint import pprint
+from products import PRODUCTS_MENU, products, add_product, remove_product, update_product
+from clients import CLIENTS_MENU, clients, add_client, remove_client, update_client
+from transactions import TRANSACTION_MENU, transactions, add_transaction, remove_transaction
+
 
 MAIN_MENU = """
 1. Products
@@ -8,133 +12,6 @@ MAIN_MENU = """
 X. Exit
 """
 
-PRODUCTS_MENU = """
-1. Add
-2. Remove
-3. Update
-4. Display All
-X. Go Back To Main Menu
-"""
-
-CLIENTS_MENU = """
-1. Add Client
-2. Remove Client
-3. Update client
-4. Display All Clients
-X. Go Back To Main Menu
-"""
-
-
-products = {
-    1: {
-        'name': 'Monitor 21 inch',
-        'manufacturer': 'Philips',
-        'category': 'Monitors',
-        'price': 675,
-        'stock': 3
-    },
-    2: {
-        'name': 'HDMI cable',
-        'manufacturer': 'HAMA',
-        'category': 'Cables',
-        'price': 30.99,
-        'stock': 10
-    }
-}
-
-clients = {
-    1: {'last_name': 'Pop',
-        'first_name': 'Ion',
-        'date_of_birth': '21/08/1968',
-        'email': 'popion@email.com'
-        },
-    2: {
-        'last_name': 'Stan',
-        'first_name': 'Ana',
-        'date_of_birt': '14/06/2001',
-        'email': 'stanana@email.com'
-    }
-}
-
-
-def add_product():
-    # check if the id is used, if yes select another one
-    product_id = int(input('Please provide a product_id: '))
-    print(product_id in products.keys())
-    name = input('Please provide a name: ')
-    manufacturer = input('Please provide a manufacturer: ')
-    category = input('Please provide a category: ')
-    price = int(input('Please provide a price: '))
-    stock = int(input('Please provide a stock: '))
-    product_info = {
-        'name': name,
-        'manufacturer': manufacturer,
-        'category': category,
-        'price': price,
-        'stock': stock
-    }
-    products[product_id] = product_info
-    print(products[product_id]['category'])
-
-
-def remove_product():
-    selected_id = int(input('Please select the product you want to remove: '))
-    products.pop(selected_id)
-
-
-def update_product():
-    selected_id = int(input('Please select the product you want to update: '))
-    new_name = input('Please provide a name: ')
-    new_manufacturer = input('Please provide a manufacturer: ')
-    new_category = input('Please provide a category: ')
-    new_price = int(input('Please provide a price: '))
-    new_stock = int(input('Please provide a stock: '))
-    product_info = {
-        'name': new_name,
-        'manufacturer': new_manufacturer,
-        'category': new_category,
-        'price': new_price,
-        'stock': new_stock
-    }
-    products[selected_id] = product_info
-
-
-def remove_client():
-    selected_id = int(input('Please select the client id to remove: '))
-    clients.pop(selected_id)
-
-
-def add_client():
-    # check if the id is used, if yes select another one
-    client_id = int(input('Please provide a client_id: '))
-    print(client_id in clients.keys())
-    last_name = input('Please provide a name: ')
-    first_name = input('Please provide a last name: ')
-    date_of_birth = input('Please provide a date of birth: ')
-    email = input('Please provide a stock: ')
-    client_info = {
-        'last_name': last_name,
-        'first_name': first_name,
-        'date_of_birth': date_of_birth,
-        'email': email
-    }
-    clients[client_id] = client_info
-    print(products[product_id]['category'])
-
-
-def update_client():
-    selected_id = int(input('please provide the id to update: '))
-    last_name = input('Please provide a name: ')
-    first_name = input('Please provide a last name: ')
-    date_of_birth = input('Please provide a date of birth: ')
-    email = input('Please provide an email: ')
-    client_info = {
-        'last_name': last_name,
-        'first_name': first_name,
-        'date_of_birth': date_of_birth,
-        'email': email
-    }
-    clients[selected_id] = client_info
 
 while True:
     print(MAIN_MENU)
@@ -182,8 +59,22 @@ while True:
                         display_clients_menu = False
                     case _:
                         print('No such option!')
+        case '3':
+            display_transaction_menu = True
+            while display_transaction_menu:
+                print(TRANSACTION_MENU)
+                option = input('Select an option from the transactions menu: ').lower()
 
-
+                match option:
+                    case '1':
+                        add_transaction()
+                    case '2':
+                        remove_transaction()
+                    case '3':
+                        pprint(transactions)
+                    case 'x':
+                        print('Going back to MAIN MENU')
+                        display_transaction_menu = False
         case 'x':
             print('Exit!')
             break
