@@ -1,7 +1,7 @@
 from pprint import pprint
 from products import PRODUCTS_MENU, products, add_product, remove_product, update_product
 from clients import CLIENTS_MENU, clients, add_client, remove_client, update_client
-from transactions import TRANSACTION_MENU, transactions, add_transaction, remove_transaction
+from transactions import TRANSACTION_MENU, read_transaction, add_transaction, read_transactions
 
 
 MAIN_MENU = """
@@ -69,9 +69,10 @@ while True:
                     case '1':
                         add_transaction()
                     case '2':
-                        remove_transaction()
+                        pprint(read_transactions())
                     case '3':
-                        pprint(transactions)
+                        selected_id = int(input('Please select a transaction ID: '))
+                        pprint(read_transaction(selected_id))
                     case 'x':
                         print('Going back to MAIN MENU')
                         display_transaction_menu = False

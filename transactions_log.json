@@ -1,0 +1,23 @@
+[
+    {
+        "transaction_id": 1,
+        "client_id": 2,
+        "product_if": 3,
+        "quantity": 3,
+        "time_of_transaction": "20:11:57 09/11/23"
+    },
+    {
+        "transaction_id": 2,
+        "client_id": 1,
+        "product_if": 1,
+        "quantity": 1,
+        "time_of_transaction": "20:16:40 09/11/23"
+    },
+    {
+        "transaction_id": 3,
+        "client_id": 1,
+        "product_if": 3,
+        "quantity": 2,
+        "time_of_transaction": "09:58:28 09/15/23"
+    }
+]
