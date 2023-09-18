@@ -1,6 +1,6 @@
 from pprint import pprint
-from products import PRODUCTS_MENU, products, add_product, remove_product, update_product
-from clients import CLIENTS_MENU, clients, add_client, remove_client, update_client
+from products import PRODUCTS_MENU, products, add_product, remove_product, update_product, read_product
+from clients import CLIENTS_MENU, clients, add_client, remove_client, update_client, read_client
 from transactions import TRANSACTION_MENU, read_transaction, add_transaction, read_transactions
 
 
@@ -34,6 +34,9 @@ while True:
                         update_product()
                     case '4':
                         pprint(products)
+                    case '5':
+                        selected_id = int(input('Please select the product ID you want to read: '))
+                        pprint(read_product(selected_id))
                     case 'x':
                         print('Going back to MAIN MENU')
                         display_products_menu = False
@@ -54,6 +57,9 @@ while True:
                         update_client()
                     case '4':
                         pprint(clients)
+                    case '5':
+                        selected_id = int(input("Please select the client ID you want to read: "))
+                        print(read_client(selected_id))
                     case 'x':
                         print('Going back to MAIN MENU')
                         display_clients_menu = False

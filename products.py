@@ -3,6 +3,7 @@ PRODUCTS_MENU = """
 2. Remove
 3. Update
 4. Display All
+5. Display selected product
 X. Go Back To Main Menu
 """
 
@@ -42,6 +43,12 @@ def add_product():
     }
     products[product_id] = product_info
     print(products[product_id]['category'])
+
+
+def read_product(selected_id):
+    for client in products.keys():
+        if client == selected_id:
+            return products[selected_id]
 
 
 def remove_product():

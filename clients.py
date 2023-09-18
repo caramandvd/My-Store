@@ -3,6 +3,7 @@ CLIENTS_MENU = """
 2. Remove Client
 3. Update client
 4. Display All Clients
+5. Display one client
 X. Go Back To Main Menu
 """
 
@@ -20,6 +21,12 @@ clients = {
         'email': 'stanana@email.com'
     }
 }
+
+
+def read_client(selected_id):
+    for client in clients.keys():
+        if client == selected_id:
+            return clients[selected_id]
 
 
 def add_client():
