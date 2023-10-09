@@ -1,3 +1,6 @@
+import csv
+from random import choice, randint
+
 PRODUCTS_MENU = """
 1. Add
 2. Remove
@@ -71,3 +74,50 @@ def update_product():
         'stock': new_stock
     }
     products[selected_id] = product_info
+
+
+def generate_dummy_product_data(quantity):
+    with open('electronics.txt', 'r') as file:
+        electronics_names = [name.strip() for name in file.readlines()]
+
+    with open('producers.txt', 'r') as file:
+        producers = [producer.strip() for producer in file.readlines()]
+
+    # Create a list to hold the generated data
+    generated_data = []
+
+    for product_id in range(quantity):
+        product = [product_id + 1,
+                   choice(['', 'Super ', 'Ultra ', 'Black Series ']) + choice(electronics_names),
+                   choice(producers),
+                   choice(['IT', 'Constructions', 'Appliance', 'House Items']),
+                   randint(50, 3000),
+                   randint(1, 15)
+                   ]
+        generated_data.append(product)
+
+    # Write the data to a CSV file
+    with open('products.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(['Product_id', 'Name', 'Manufacturer', 'Category', 'Price', 'Stock'])
+
+        for product in generated_data:
+            writer.writerow(product)
+
+
+def find_max_product_id():
+    max_product_id = -1
+
+    with open('products.csv', 'r') as csv_file:
+        csv_reader = csv.reader(csv_file)
+
+        next(csv_reader, None)
+
+        for row in csv_reader:
+            product_id = int(row[0])
+            if product_id > max_product_id:
+                max_product_id = product_id
+
+        return max_product_id
+
+generate_dummy_product_data(1000)

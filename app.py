@@ -1,8 +1,8 @@
 from pprint import pprint
 from products import PRODUCTS_MENU, products, add_product, remove_product, update_product, read_product
-from clients import CLIENTS_MENU, clients, add_client, remove_client, update_client, read_client
+from clients import CLIENTS_MENU, clients, add_client, remove_client, update_client, read_client, REPORTS_MENU, \
+    mean_dob, age_distribution_graph
 from transactions import TRANSACTION_MENU, read_transaction, add_transaction, read_transactions
-
 
 MAIN_MENU = """
 1. Products
@@ -11,7 +11,6 @@ MAIN_MENU = """
 4. Reports
 X. Exit
 """
-
 
 while True:
     print(MAIN_MENU)
@@ -82,6 +81,19 @@ while True:
                     case 'x':
                         print('Going back to MAIN MENU')
                         display_transaction_menu = False
+        case '4':
+            display_reports_menu = True
+            while display_reports_menu:
+                print(REPORTS_MENU)
+                option = input('please select the report you want to see').lower()
+                match option:
+                    case '1':
+                        print(f'The average date of birth is: {mean_dob()}')
+                    case '2':
+                        age_distribution_graph()
+                    case 'x':
+                        print('Exit!')
+                        break
         case 'x':
             print('Exit!')
             break
