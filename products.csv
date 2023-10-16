@@ -1,0 +1,1001 @@
+Product_id,Name,Manufacturer,Category,Price,Stock
+1,Super Electric razor,Apple,Constructions,1294,9
+2,Black Series Printer,Philips,House Items,1747,13
+3,Black Series Blender,Toshiba,IT,425,12
+4,Car toy,ReMarkable,Appliance,2037,1
+5,Ultra Backup charger,Nintendo,Constructions,1805,5
+6,Facial cleansing machine,DeWalt,IT,275,3
+7,Kitchen scale,Toshiba,Constructions,1921,7
+8,Clothes dryer,Nintendo,Constructions,1048,13
+9,Sandwich maker,Yamaha,Appliance,285,15
+10,Vacuum cleaner,Samsung,House Items,1038,10
+11,Black Series Backup charger,Samsung,IT,274,6
+12,Electric grill,Toshiba,House Items,2552,10
+13,Ultra Air purifier,Samsung,House Items,145,2
+14,Black Series Car toy,Apple,IT,1829,12
+15,Alarm clock,Samsung,IT,218,3
+16,Hair dryer,Bosch,Constructions,2006,15
+17,Rice cooker,Hama,Appliance,1493,4
+18,Ultra Air conditioner,Logitech,Appliance,1802,8
+19,Super Facial cleansing machine,Samsung,Constructions,2891,8
+20,Vacuum cleaner,Lenovo,Appliance,2525,8
+21,Lift,Logitech,IT,1593,14
+22,Black Series Timer,Samsung,Constructions,2794,5
+23,Black Series Tablet,Samsung,House Items,2874,13
+24,Smart television,ReMarkable,House Items,1833,1
+25,Ultra Air purifier,Nintendo,Constructions,1372,5
+26,Super Remote control,Toshiba,IT,2124,10
+27,Super Computer,Samsung,IT,2999,9
+28,Ultra Meat grinder,Logitech,Constructions,2054,11
+29,Black Series Dishwasher,Emerson,Appliance,2566,7
+30,Black Series Kettle,Toshiba,House Items,81,11
+31,Black Series Microphone,Toshiba,Constructions,2850,4
+32,Ultra External hard drive,Nokia,Appliance,1144,6
+33,Hair straightening machine,Logitech,IT,218,12
+34,Ultra Electric stove,Asus,Appliance,743,14
+35,Ultra Copier,Yamaha,Appliance,2261,6
+36,Ultra Water pumps,Philips,House Items,2472,4
+37,Black Series Water pumps,Samsung,Constructions,2660,5
+38,Black Series Robotic vacuum cleaner,Yamaha,Appliance,347,6
+39,Ultra Copier,Lenovo,House Items,1878,6
+40,Ultra Bread maker,DeWalt,House Items,461,9
+41,Fax,Logitech,IT,147,9
+42,Smartphone,Lenovo,Constructions,2247,13
+43,Super Mosquito racket,Lenovo,Constructions,866,7
+44,Black Series Alarm clock,Apple,IT,2912,8
+45,Black Series Fish tank,Hama,Constructions,101,15
+46,Ultra Smartphone,Philips,House Items,2080,10
+47,Clothes dryer,ReMarkable,Constructions,2055,14
+48,Super Headset,Yamaha,Constructions,825,15
+49,Ultra Water pumps,Nintendo,IT,540,8
+50,Super Mosquito racket,Toshiba,House Items,2942,15
+51,Curling iron,Emerson,Constructions,420,7
+52,Black Series Juicer,Lenovo,IT,626,7
+53,Ultra Curling iron,Logitech,House Items,703,12
+54,Black Series Plotter,Emerson,IT,88,13
+55,Ultra Water pumps,Nokia,Constructions,1191,12
+56,Ultra Electric pencil sharpener,Toshiba,Appliance,1611,1
+57,Super Exhaust fan,Lenovo,IT,489,4
+58,Black Series Clothes dryer,Philips,Constructions,1027,10
+59,Air purifier,Emerson,IT,321,7
+60,Ultra Mosquito racket,Philips,Appliance,1551,15
+61,Ultra Microphone,Nintendo,Appliance,2346,10
+62,Super Monitor,Nokia,House Items,1690,3
+63,Black Series Electric razor,ReMarkable,Appliance,2839,9
+64,Super Tablet,Yamaha,IT,1953,8
+65,Ultra Watch,Nintendo,Constructions,783,12
+66,Super Oil-free fryer,DeWalt,Constructions,2493,15
+67,Vacuum cleaner,Philips,IT,2520,8
+68,Ultra Iron,Nokia,IT,934,6
+69,Ultra Sewing machine,Asus,Constructions,2765,2
+70,Black Series Scale,DeWalt,House Items,828,9
+71,Ultra Inkjet printer,Emerson,IT,1837,15
+72,Kitchen scale,DeWalt,House Items,1692,8
+73,Wall fan,Huawei,House Items,278,4
+74,Radio,Samsung,IT,2395,11
+75,Super Walkie-talkie,Asus,Appliance,2311,9
+76,Clothes dryer,Bosch,IT,1533,2
+77,Black Series Watch,Nintendo,Appliance,2518,4
+78,Super Pressure cooker,Nokia,IT,1456,12
+79,Torch,Lenovo,Appliance,2256,11
+80,Dishwasher,Emerson,IT,1833,9
+81,Earphones,Huawei,Appliance,666,1
+82,Scale,ReMarkable,IT,2705,12
+83,Super Electric stove,Toshiba,Constructions,1775,10
+84,Super Juicer,Yamaha,Constructions,2497,6
+85,Ultra Mosquito racket,Toshiba,House Items,2436,2
+86,Mosquito racket,Bosch,Constructions,1542,1
+87,Super Electric pencil sharpener,Huawei,Appliance,2717,12
+88,Black Series Mouse,Samsung,Constructions,81,5
+89,Black Series Pressure cooker,Nintendo,Constructions,2749,1
+90,Ultra Clock,Asus,IT,1666,11
+91,Ultra Sewing machine,Toshiba,Constructions,417,7
+92,Black Series Headset,Nokia,Appliance,894,4
+93,Super Air conditioner,Asus,House Items,2999,15
+94,Projector,Asus,Appliance,982,5
+95,Ultra Lawn mower,Nintendo,Constructions,1603,15
+96,Super Drill,Lenovo,House Items,2169,2
+97,Ultra USB drive,Nintendo,Constructions,1062,9
+98,Black Series Plotter,Logitech,Constructions,1852,2
+99,Black Series Mosquito racket,Hama,Constructions,1762,10
+100,Ultra Water pumps,Apple,Constructions,2935,8
+101,Ultra Toaster,Philips,IT,974,5
+102,Ultra Bulb,Nintendo,House Items,2722,13
+103,Ultra Scale,Yamaha,Appliance,2346,8
+104,Ultra Smartphone,Hama,House Items,1109,9
+105,Super Timer,DeWalt,Appliance,2969,10
+106,Ultra Earphones,Apple,Constructions,1982,3
+107,Electric razor,Toshiba,Appliance,2136,10
+108,Electric grill,Lenovo,House Items,2877,7
+109,Ultra Tablet,Philips,House Items,2908,5
+110,Super Water heater,Lenovo,Appliance,2605,10
+111,Ultra Fish tank,Huawei,House Items,2661,11
+112,Earphones,Logitech,IT,749,6
+113,Black Series Walkie-talkie,DeWalt,House Items,1667,1
+114,Super Refrigerator,Hama,Constructions,766,5
+115,Super Headset,ReMarkable,Constructions,816,11
+116,Ultra Juicer,Nokia,IT,2305,4
+117,Ultra Meat grinder,Nokia,House Items,2656,7
+118,Black Series Coffee maker,Philips,House Items,134,2
+119,Kettle,Lenovo,IT,1438,4
+120,Alarm clock,Hama,Constructions,717,8
+121,Radio,Toshiba,Constructions,1817,5
+122,Super Water pumps,Philips,House Items,2332,5
+123,Ultra USB drive,Huawei,House Items,2004,6
+124,Ultra Washing machine,Toshiba,House Items,1415,14
+125,Black Series Printer,Bosch,Appliance,1239,11
+126,Black Series Exhaust fan,Asus,IT,1786,10
+127,Black Series Facial cleansing machine,Toshiba,IT,2790,13
+128,Super Tablet,Bosch,IT,2086,9
+129,Ultra Torch,Hama,Constructions,1147,6
+130,Fax,Bosch,Appliance,2294,10
+131,Super Lawn mower,Asus,Constructions,667,7
+132,Black Series Oven,Emerson,Constructions,132,4
+133,Super External hard drive,Samsung,House Items,668,7
+134,Ultra Electric grill,ReMarkable,IT,618,1
+135,Dvd player,Bosch,IT,1192,6
+136,Black Series Curling iron,Yamaha,Constructions,537,10
+137,Ultra Kettle,Emerson,Appliance,1871,3
+138,Ultra Electric guitar,Bosch,House Items,791,6
+139,Ultra Juicer,Logitech,House Items,987,10
+140,Super Robotic vacuum cleaner,Toshiba,House Items,1695,1
+141,Wall fan,Samsung,Constructions,1805,11
+142,Black Series Radiator,Yamaha,House Items,633,6
+143,Super Lift,Philips,House Items,1020,10
+144,Black Series Calculator,Lenovo,Constructions,2006,1
+145,Black Series Microwave,Hama,House Items,121,14
+146,Ceiling fan,Yamaha,IT,2930,1
+147,Ultra Electric grill,Bosch,House Items,938,9
+148,Ultra Clothes dryer,Emerson,Constructions,629,7
+149,Electric frying pan,DeWalt,Appliance,2216,12
+150,Super Webcam,Nintendo,House Items,1111,8
+151,Mp3 player,ReMarkable,IT,607,8
+152,Ultra Toaster,Hama,IT,1600,1
+153,Super Robotic vacuum cleaner,Samsung,Appliance,2571,7
+154,Black Series Toaster,Apple,IT,469,7
+155,Black Series Radio,Bosch,IT,1879,8
+156,Super Projector,Nokia,IT,740,4
+157,Ultra Projector,Bosch,IT,2509,2
+158,Ultra Doorbell camera,Lenovo,Appliance,77,13
+159,Super Digital camera,Hama,Appliance,2716,12
+160,Ultra USB drive,Asus,Constructions,544,3
+161,Inkjet printer,ReMarkable,Constructions,1491,4
+162,Ultra Fax,Apple,House Items,1628,8
+163,Black Series Copier,Logitech,Appliance,2458,15
+164,Reading lamp,Lenovo,IT,1807,1
+165,Super Mixer,Logitech,IT,702,14
+166,Ultra Juicer,Apple,IT,1055,10
+167,Super Meat grinder,ReMarkable,House Items,845,2
+168,Ultra Bulb,Logitech,House Items,2978,5
+169,Black Series Electric guitar,Samsung,Constructions,1990,9
+170,Juicer,Samsung,Constructions,120,1
+171,Coffee maker,Huawei,Constructions,2126,15
+172,Super Grandfather clock,ReMarkable,House Items,1010,11
+173,Torch,Hama,House Items,573,5
+174,Black Series Doorbell camera,Nokia,Appliance,282,5
+175,Black Series Lift,Asus,IT,1211,7
+176,Torch,Asus,Appliance,2126,11
+177,Black Series Piano,Emerson,IT,2583,5
+178,Super Garage,Toshiba,House Items,853,8
+179,Black Series Bulb,Hama,IT,1041,1
+180,Super Electric pencil sharpener,Apple,Constructions,2328,5
+181,Hair dryer,Yamaha,Constructions,2659,13
+182,Super Water purifier,DeWalt,House Items,2749,1
+183,Juicer,Lenovo,Constructions,1890,7
+184,Grandfather clock,ReMarkable,House Items,1806,11
+185,Black Series Water purifier,Huawei,Appliance,660,15
+186,Ultra Banknote counter,Apple,IT,261,11
+187,Black Series Remote control,Huawei,Constructions,1822,6
+188,Black Series Drill,Asus,Constructions,1420,13
+189,Ultra Digital camera,Toshiba,House Items,2879,5
+190,Black Series Tablet,Huawei,Constructions,282,11
+191,Super Scanner,Hama,House Items,1066,4
+192,Black Series Fan,Nokia,House Items,1438,6
+193,Super Banknote counter,Emerson,Constructions,1178,4
+194,Speakers,Asus,House Items,312,1
+195,Ultra Electric razor,Logitech,House Items,596,13
+196,Air conditioner,ReMarkable,Constructions,2616,8
+197,Ultra Alarm clock,Samsung,Appliance,1360,2
+198,Super Scanner,Huawei,Constructions,890,10
+199,Inkjet printer,Bosch,House Items,1409,7
+200,Game controller,Yamaha,Appliance,1074,15
+201,Fish tank,Nokia,Constructions,2690,7
+202,Ultra Bluetooth speaker,Logitech,IT,2226,5
+203,Clothes dryer,Hama,IT,1187,6
+204,Black Series Juicer,Apple,Constructions,866,10
+205,Facial cleansing machine,Nintendo,IT,1607,4
+206,Microphone,Nintendo,House Items,2630,15
+207,Ultra Facial cleansing machine,Bosch,Appliance,154,13
+208,Super Chandelier,Nokia,Appliance,1174,9
+209,Ultra Mouse,Apple,House Items,2875,14
+210,Ultra Bread maker,ReMarkable,IT,51,1
+211,Ultra Smart television,Hama,Appliance,1028,8
+212,Speakers,Hama,House Items,2714,11
+213,Super Oil-free fryer,Nintendo,Constructions,2307,9
+214,Super Scanner,Asus,Constructions,1964,10
+215,Super Electric guitar,Lenovo,IT,1032,5
+216,Black Series Ceiling fan,Philips,House Items,2564,12
+217,Super Drill,Toshiba,House Items,170,9
+218,Microphone,Philips,IT,2228,12
+219,Black Series Projector,Huawei,Constructions,2384,3
+220,Banknote counter,Yamaha,IT,843,1
+221,Super Game controller,Logitech,Constructions,2528,2
+222,Black Series Electric grill,Toshiba,Constructions,1190,3
+223,Ultra Kettle,Huawei,Appliance,323,8
+224,Super Headset,Apple,Appliance,892,15
+225,Bluetooth speaker,Hama,Constructions,1728,7
+226,Black Series Remote control,ReMarkable,House Items,2381,6
+227,Ultra Smart television,Apple,Constructions,2762,8
+228,Sewing machine,Emerson,Appliance,1559,12
+229,Black Series Electric pencil sharpener,Bosch,IT,1170,11
+230,Ultra Mixer,Yamaha,House Items,2103,8
+231,Iron,Logitech,Appliance,304,1
+232,Hair dryer,Huawei,Constructions,974,4
+233,Black Series Grandfather clock,Huawei,Appliance,1879,9
+234,Ultra Oven,Yamaha,House Items,1536,5
+235,Super Garage,Nokia,IT,1736,4
+236,Super Kettle,Nokia,IT,2729,10
+237,Water purifier,DeWalt,Constructions,1473,7
+238,Super Piano,ReMarkable,Constructions,1935,9
+239,Super Reading lamp,Emerson,House Items,1314,1
+240,Ultra Webcam,Toshiba,IT,2009,2
+241,Ultra Headset,Nintendo,House Items,948,15
+242,Ultra Juicer,Emerson,Constructions,876,9
+243,Super Watch,Hama,Appliance,853,2
+244,Coffee maker,Bosch,Appliance,1047,7
+245,Meat grinder,Emerson,Appliance,1811,10
+246,Smart television,Emerson,IT,1405,2
+247,Calculator,Logitech,IT,2444,10
+248,Ultra Exhaust fan,Toshiba,Appliance,1944,15
+249,Oven,DeWalt,Constructions,1118,6
+250,Super Bread maker,Samsung,Constructions,1351,9
+251,Bluetooth speaker,ReMarkable,Constructions,50,12
+252,Ultra Mosquito racket,Logitech,House Items,1020,8
+253,Black Series Sewing machine,Yamaha,Constructions,921,2
+254,Super Laser printer,ReMarkable,Appliance,1325,12
+255,Ultra Wifi modem,Asus,House Items,1998,5
+256,Ultra Bluetooth speaker,Lenovo,IT,1425,5
+257,Ultra Water heater,Toshiba,IT,2536,1
+258,Super Printer,Logitech,IT,236,3
+259,Super Earphones,Emerson,House Items,263,8
+260,Black Series Toaster,Huawei,Constructions,2504,5
+261,Torch,Toshiba,Constructions,573,2
+262,Ceiling fan,Huawei,House Items,2733,12
+263,Super Mp3 player,Logitech,House Items,1820,9
+264,Ultra Doorbell camera,ReMarkable,IT,355,11
+265,Super Lift,Samsung,IT,1086,15
+266,Super Clock,ReMarkable,IT,1800,9
+267,Robotic vacuum cleaner,Yamaha,House Items,250,7
+268,Microwave,Bosch,House Items,2818,2
+269,Black Series Iron,Asus,IT,570,13
+270,Wifi modem,Hama,House Items,1067,7
+271,Black Series Fan,Nintendo,Appliance,275,12
+272,Black Series Dishwasher,Nintendo,IT,684,7
+273,Sewing machine,Samsung,IT,1672,11
+274,Super Alarm clock,Toshiba,Appliance,1540,13
+275,Clothes dryer,DeWalt,Constructions,2608,8
+276,Black Series Grandfather clock,Lenovo,IT,2393,4
+277,Super Tablet,Lenovo,IT,980,8
+278,Ultra Walkie-talkie,Hama,IT,2731,2
+279,Ultra Exhaust fan,Bosch,Constructions,1692,4
+280,Ultra Grandfather clock,Lenovo,IT,1166,10
+281,Electric frying pan,Logitech,House Items,2806,5
+282,Black Series Clock,Samsung,IT,2860,10
+283,Black Series Ceiling fan,Nokia,House Items,2136,8
+284,Ultra Electric stove,Lenovo,Constructions,2621,2
+285,Black Series Headset,Lenovo,Constructions,1240,1
+286,Kettle,Logitech,IT,1867,10
+287,Super Remote control,Apple,Appliance,1270,14
+288,Clothes dryer,ReMarkable,Constructions,2407,9
+289,Super Electric grill,Yamaha,House Items,2996,4
+290,Super Air conditioner,Emerson,Constructions,1797,1
+291,Super Mouse,Logitech,Appliance,1910,1
+292,Black Series Watch,Emerson,House Items,437,4
+293,Ultra Mp3 player,Lenovo,IT,1852,4
+294,Black Series Speakers,Asus,Appliance,2186,10
+295,Ultra Timer,Yamaha,House Items,327,8
+296,Television,Bosch,Appliance,1610,4
+297,Super Bread maker,Bosch,Appliance,1638,9
+298,Black Series External hard drive,ReMarkable,IT,2896,14
+299,Black Series Scale,Bosch,IT,1602,13
+300,Ultra Lawn mower,Philips,House Items,2936,8
+301,Super Washing machine,Samsung,House Items,241,2
+302,Plotter,Nintendo,Appliance,1704,2
+303,Black Series Printer,Emerson,IT,365,12
+304,Black Series Water pumps,Lenovo,IT,656,7
+305,Black Series Scale,Nintendo,Appliance,2013,3
+306,Super Scanner,Samsung,Constructions,2716,8
+307,Black Series Microphone,Logitech,Constructions,1103,14
+308,Black Series Radiator,DeWalt,House Items,1370,4
+309,Scanner,Emerson,House Items,1393,4
+310,Ultra Plotter,Asus,Constructions,2991,8
+311,Toaster,Samsung,Appliance,1553,2
+312,Super Exhaust fan,Lenovo,Appliance,1576,15
+313,Calculator,Toshiba,IT,470,2
+314,Toaster,Lenovo,IT,972,6
+315,Black Series Mouse,Toshiba,House Items,502,12
+316,Scale,Asus,House Items,2829,11
+317,Projector,Logitech,Constructions,539,5
+318,Ultra Chandelier,Asus,House Items,188,10
+319,Ultra Bread maker,ReMarkable,House Items,2295,6
+320,USB drive,Samsung,Appliance,2726,10
+321,Ultra Blender,Emerson,House Items,2306,11
+322,Black Series Electric razor,Samsung,Constructions,416,10
+323,Pressure cooker,Samsung,IT,1580,10
+324,Black Series Projector,Hama,Appliance,211,2
+325,Black Series Oil-free fryer,ReMarkable,Constructions,1003,6
+326,Black Series Electric frying pan,Yamaha,House Items,2144,13
+327,Ultra Lift,Bosch,House Items,1296,1
+328,Black Series Blender,Nintendo,IT,2831,8
+329,Ultra Toaster,Huawei,Constructions,2152,8
+330,Robotic vacuum cleaner,Hama,House Items,2976,14
+331,Wifi modem,Nintendo,Appliance,2807,4
+332,Black Series Water purifier,Apple,Appliance,1264,7
+333,Super USB drive,Lenovo,Appliance,2825,9
+334,Black Series Reading lamp,Huawei,House Items,177,1
+335,Super Dishwasher,Philips,IT,332,13
+336,Black Series Webcam,Hama,IT,224,8
+337,Super Monitor,Hama,Appliance,1068,11
+338,Super Fan,Huawei,Appliance,1983,9
+339,Kitchen scale,DeWalt,Appliance,385,7
+340,Ultra Timer,Huawei,Appliance,128,14
+341,Ultra Iron,Toshiba,House Items,401,7
+342,Microwave,Asus,Constructions,1686,1
+343,Radiator,DeWalt,Appliance,1294,12
+344,Scale,Hama,IT,493,4
+345,Ultra Vacuum cleaner,ReMarkable,House Items,2452,5
+346,Black Series Oil-free fryer,DeWalt,IT,668,10
+347,Super Juicer,Samsung,House Items,1133,6
+348,Black Series Monitor,DeWalt,House Items,2368,13
+349,Black Series Kitchen scale,Bosch,IT,2102,15
+350,Black Series Sewing machine,Bosch,Appliance,1396,5
+351,Ultra Pressure cooker,Emerson,IT,2759,12
+352,Computer,Toshiba,House Items,2525,5
+353,Black Series Pressure cooker,Bosch,IT,537,14
+354,Bluetooth speaker,Emerson,IT,1792,2
+355,Rice cooker,Nokia,Appliance,1849,13
+356,Mosquito racket,ReMarkable,Appliance,2622,12
+357,Black Series Washing machine,Logitech,Appliance,911,11
+358,Super Vacuum cleaner,ReMarkable,IT,88,5
+359,Black Series Backup charger,Huawei,Appliance,820,13
+360,Black Series Timer,Toshiba,IT,2918,1
+361,Bulb,Huawei,House Items,2550,3
+362,Ultra Bulb,Lenovo,IT,698,13
+363,Ultra Fish tank,Hama,IT,521,8
+364,Black Series Kettle,Hama,IT,853,15
+365,Super Sewing machine,Emerson,Constructions,2850,3
+366,Black Series Bread maker,Philips,Appliance,2706,15
+367,Super Bulb,Samsung,House Items,107,15
+368,Black Series Hair dryer,Toshiba,Appliance,2774,13
+369,Black Series Game controller,Philips,House Items,1088,9
+370,Ultra Fish tank,Hama,Appliance,344,9
+371,Super Electric frying pan,Toshiba,House Items,597,14
+372,Super Timer,Nintendo,Appliance,2116,11
+373,Ultra Washing machine,Emerson,Appliance,1309,5
+374,Hair dryer,Lenovo,House Items,1074,6
+375,Ultra Electric stove,Nokia,House Items,2732,13
+376,Black Series Electric guitar,Huawei,IT,370,14
+377,Super Bread maker,Toshiba,House Items,743,4
+378,Super Safe,Nintendo,Constructions,2306,12
+379,Black Series Computer,Bosch,IT,2434,8
+380,Super Air conditioner,Apple,House Items,1746,14
+381,Super Vacuum cleaner,Huawei,House Items,95,5
+382,Earphones,Apple,Appliance,1406,12
+383,Ultra Projector,Nintendo,Appliance,1895,7
+384,Black Series Air conditioner,Samsung,IT,2605,12
+385,Ultra Safe,Philips,House Items,1753,6
+386,Hair dryer,Huawei,House Items,843,13
+387,Super Plotter,Yamaha,IT,2836,7
+388,Black Series Microwave,Hama,Appliance,1817,9
+389,Super Water heater,Nintendo,Constructions,1917,8
+390,Super Banknote counter,Philips,Constructions,2235,6
+391,Ultra Headset,Yamaha,Constructions,1441,6
+392,Black Series Timer,Huawei,Constructions,1312,8
+393,Super Bread maker,Emerson,House Items,315,11
+394,Ultra Dvd player,Nintendo,IT,1755,7
+395,Super Doorbell camera,Yamaha,Appliance,1680,2
+396,Super Webcam,Logitech,IT,755,11
+397,Water heater,Yamaha,Appliance,1242,11
+398,Black Series Mixer,Toshiba,IT,2652,1
+399,Mp3 player,Nintendo,IT,647,5
+400,Electric stove,Hama,IT,2427,7
+401,Super Headset,Yamaha,Constructions,1855,1
+402,Black Series Washing machine,Huawei,House Items,2495,5
+403,Super Piano,Asus,Appliance,908,5
+404,Webcam,Toshiba,Constructions,1391,8
+405,Ultra Mosquito racket,Bosch,IT,2052,2
+406,Remote control,Toshiba,Appliance,1525,11
+407,Safe,DeWalt,IT,928,15
+408,Ultra Drill,Asus,IT,156,7
+409,Ultra Mp3 player,Samsung,IT,740,5
+410,Black Series Printer,Apple,Appliance,436,9
+411,Black Series Piano,Nintendo,Appliance,221,4
+412,Projector,Lenovo,House Items,1676,6
+413,Ultra Mixer,Huawei,Constructions,1870,4
+414,Black Series Webcam,Nintendo,Constructions,1014,13
+415,USB drive,Philips,Appliance,1081,8
+416,Wall fan,DeWalt,Constructions,744,8
+417,Black Series Juicer,DeWalt,IT,1748,11
+418,Water purifier,Bosch,House Items,854,3
+419,Ultra Fan,Nokia,Constructions,2995,5
+420,Super Vacuum cleaner,Samsung,IT,841,5
+421,Super Electric grill,Nokia,Appliance,504,9
+422,Television,Yamaha,House Items,1131,7
+423,Ultra Blender,Apple,Constructions,482,13
+424,Ultra Refrigerator,Lenovo,Appliance,283,8
+425,Black Series Coffee maker,Lenovo,House Items,2038,14
+426,Alarm clock,Bosch,Appliance,256,1
+427,Super Radiator,Huawei,Appliance,1508,15
+428,Super Dishwasher,Nintendo,Appliance,2491,14
+429,Black Series Fish tank,DeWalt,IT,1724,15
+430,Ultra Washing machine,Nokia,Appliance,479,3
+431,Black Series Monitor,Asus,Constructions,357,9
+432,Black Series Facial cleansing machine,Huawei,IT,1838,1
+433,Wifi modem,Yamaha,Constructions,557,13
+434,Monitor,Nintendo,IT,563,9
+435,Ultra Electric grill,Philips,Constructions,1847,12
+436,Super Oven,Bosch,Appliance,1262,13
+437,Laser printer,Hama,IT,1376,6
+438,Black Series Piano,Yamaha,Appliance,653,6
+439,Super Inkjet printer,Bosch,IT,1732,7
+440,Black Series Remote control,Toshiba,Constructions,1650,12
+441,Super Printer,Huawei,IT,2269,7
+442,Oil-free fryer,Toshiba,IT,699,11
+443,Super Hair straightening machine,DeWalt,Constructions,828,4
+444,Super Electric frying pan,Emerson,Constructions,1590,12
+445,Ultra Fan,Nokia,IT,990,5
+446,Ultra Microwave,Nokia,IT,983,11
+447,Electric frying pan,Philips,IT,2039,13
+448,Black Series Smartphone,Logitech,House Items,687,11
+449,Super Fish tank,DeWalt,House Items,389,15
+450,Super Juicer,Philips,Constructions,394,10
+451,Super Piano,Bosch,Appliance,2741,2
+452,Black Series Scale,DeWalt,Constructions,685,1
+453,Super Hair dryer,Toshiba,IT,764,9
+454,Ultra Kettle,Emerson,Appliance,63,12
+455,Super Banknote counter,Nintendo,House Items,1961,2
+456,Ultra Refrigerator,Samsung,Appliance,1207,5
+457,Ultra Drill,Toshiba,House Items,279,15
+458,Super Hair dryer,Philips,Constructions,1782,10
+459,Ultra Television,Bosch,House Items,2398,7
+460,Super Timer,Toshiba,Constructions,330,15
+461,Black Series Fish tank,Asus,IT,2881,13
+462,Black Series Bluetooth speaker,Hama,IT,2619,10
+463,Super Fish tank,Philips,IT,1942,11
+464,Ultra Fax,Nokia,Constructions,2239,12
+465,Black Series Mouse,Yamaha,House Items,244,3
+466,Watch,Bosch,House Items,517,2
+467,Black Series Clothes dryer,Bosch,Constructions,1754,11
+468,Super Electric stove,Nintendo,IT,657,14
+469,Car toy,Nintendo,IT,1768,8
+470,Super Fish tank,Hama,Constructions,221,14
+471,Alarm clock,Philips,Appliance,1962,7
+472,Super Curling iron,Huawei,IT,2319,13
+473,Pressure cooker,Nokia,Appliance,1609,10
+474,Black Series Juicer,Apple,Appliance,801,5
+475,Black Series Printer,Asus,Appliance,862,7
+476,Black Series Pressure cooker,Hama,Constructions,984,10
+477,Super Clothes dryer,ReMarkable,IT,232,6
+478,Black Series Mouse,Bosch,House Items,778,9
+479,Ultra Webcam,Logitech,Constructions,2413,6
+480,Ultra Meat grinder,Samsung,House Items,2531,15
+481,Super Mosquito racket,Toshiba,IT,1477,2
+482,Black Series Car toy,Bosch,IT,2834,8
+483,Super Curling iron,Emerson,House Items,1974,1
+484,Radio,Philips,Appliance,2331,13
+485,Black Series Chandelier,Nokia,Appliance,2182,10
+486,Ultra Speakers,Logitech,Appliance,1580,14
+487,Ultra Water heater,Philips,Constructions,2445,15
+488,Sewing machine,Logitech,House Items,2636,3
+489,Super Lift,Yamaha,IT,1262,3
+490,Clothes dryer,DeWalt,IT,2004,12
+491,Robotic vacuum cleaner,Logitech,Constructions,2051,4
+492,Ultra Piano,Toshiba,Constructions,2112,3
+493,Super Wifi modem,Bosch,Constructions,2473,4
+494,Blender,Nokia,Appliance,1216,5
+495,Black Series Timer,Huawei,Appliance,549,6
+496,Ultra Doorbell camera,Bosch,House Items,1880,5
+497,Monitor,Philips,IT,1072,10
+498,Ultra Bread maker,Asus,House Items,2582,5
+499,Washing machine,Logitech,House Items,352,15
+500,Super Refrigerator,Yamaha,Appliance,60,4
+501,Curling iron,Huawei,House Items,1873,12
+502,Black Series Clock,ReMarkable,Appliance,2044,4
+503,Black Series Curling iron,Asus,Constructions,1484,2
+504,Black Series Earphones,Apple,House Items,1874,6
+505,Fan,Nokia,IT,2325,9
+506,Ultra Digital camera,Huawei,House Items,1867,12
+507,Ultra Ceiling fan,Hama,House Items,2954,3
+508,Black Series Air purifier,Samsung,IT,2791,14
+509,Digital camera,DeWalt,IT,1078,9
+510,Ultra Timer,Nokia,House Items,174,12
+511,Super Computer,Nokia,Appliance,263,13
+512,Water purifier,Emerson,Constructions,1063,13
+513,Ultra Coffee maker,Huawei,Constructions,2134,15
+514,Black Series Piano,Logitech,Appliance,2826,14
+515,Black Series Lift,ReMarkable,Constructions,2754,11
+516,Smart television,Nintendo,Constructions,1730,8
+517,Ultra Mouse,Yamaha,IT,2018,5
+518,Black Series External hard drive,Logitech,Constructions,2624,10
+519,Ultra Grandfather clock,DeWalt,Appliance,1776,8
+520,Electric stove,DeWalt,IT,2970,1
+521,Ultra Fax,Nokia,Constructions,1262,7
+522,Ultra iPod,Toshiba,Constructions,2519,13
+523,Black Series Webcam,Logitech,Appliance,775,14
+524,Pressure cooker,Emerson,Constructions,2438,12
+525,Fish tank,Logitech,House Items,2098,9
+526,Ultra Electric stove,Hama,IT,2112,4
+527,Ultra Bread maker,Samsung,Appliance,487,12
+528,Iron,Bosch,House Items,2628,8
+529,Black Series Electric stove,DeWalt,Appliance,1901,1
+530,Ultra Robotic vacuum cleaner,Huawei,IT,593,3
+531,Clothes dryer,Philips,Constructions,1985,7
+532,Ultra Headset,Nintendo,Appliance,1230,14
+533,Electric stove,Lenovo,Appliance,773,14
+534,Super Printer,Logitech,House Items,2305,14
+535,Black Series Curling iron,Bosch,Constructions,2939,9
+536,Super Microphone,DeWalt,IT,1205,15
+537,Super Microphone,ReMarkable,Appliance,1081,4
+538,Super Electric guitar,Asus,Constructions,1902,5
+539,Black Series Ceiling fan,Hama,Constructions,2418,6
+540,Ultra Grandfather clock,Logitech,House Items,1522,9
+541,Ultra Juicer,Apple,Constructions,1747,10
+542,Black Series Electric stove,Logitech,IT,909,10
+543,Black Series Computer,Huawei,Constructions,1826,4
+544,Ultra Vacuum cleaner,Asus,Appliance,837,8
+545,Ultra Television,Hama,Appliance,1860,9
+546,Black Series Watch,ReMarkable,Appliance,200,8
+547,Black Series Clock,ReMarkable,House Items,2565,15
+548,Black Series Copier,Nokia,IT,876,14
+549,Ultra Rice cooker,Philips,IT,2508,12
+550,Kitchen scale,Toshiba,House Items,886,9
+551,Black Series Rice cooker,Logitech,Constructions,1337,4
+552,Microwave,Philips,House Items,2470,4
+553,Black Series Oil-free fryer,Nokia,House Items,2178,3
+554,Black Series Scale,Nokia,House Items,878,11
+555,Ultra Inkjet printer,Hama,Appliance,1483,3
+556,Super Tablet,Toshiba,IT,1592,13
+557,Super Printer,Nintendo,IT,1713,1
+558,Earphones,Bosch,Constructions,528,13
+559,Super Hair dryer,Hama,Appliance,80,9
+560,Walkie-talkie,ReMarkable,IT,2179,5
+561,Super Blender,ReMarkable,Constructions,185,1
+562,Ultra Speakers,Nokia,IT,853,13
+563,Super Alarm clock,Toshiba,Appliance,2510,6
+564,Black Series Car toy,Nintendo,Constructions,1239,12
+565,Smart television,Asus,IT,1191,1
+566,Super Game controller,Logitech,Constructions,598,13
+567,Ultra Plotter,DeWalt,Constructions,1006,1
+568,Lawn mower,Yamaha,IT,2357,11
+569,Black Series Wall fan,Samsung,IT,1641,7
+570,Juicer,Lenovo,IT,269,1
+571,Black Series Mouse,Asus,Appliance,1396,9
+572,Ultra Bluetooth speaker,Philips,Constructions,99,14
+573,Black Series Coffee maker,Nintendo,IT,2570,13
+574,Ultra Curling iron,ReMarkable,House Items,1931,5
+575,Ultra Ceiling fan,Lenovo,Appliance,2340,8
+576,Digital camera,Emerson,Appliance,1957,14
+577,Hair dryer,Nintendo,Appliance,1819,14
+578,Toaster,Lenovo,Constructions,1733,5
+579,Microphone,ReMarkable,IT,909,8
+580,Ultra Bluetooth speaker,Yamaha,IT,814,15
+581,Black Series Rice cooker,Apple,Appliance,2432,12
+582,Super Car toy,Lenovo,Appliance,2457,2
+583,Black Series Radiator,Toshiba,Constructions,676,15
+584,Ultra Wall fan,Huawei,House Items,1129,2
+585,Ultra Bread maker,Emerson,IT,1090,6
+586,Super Remote control,Asus,House Items,1106,10
+587,Super Hair straightening machine,Apple,Appliance,2725,2
+588,Ultra Car toy,Philips,Appliance,2898,5
+589,Exhaust fan,Nintendo,House Items,2112,4
+590,Ultra Watch,Emerson,House Items,2892,10
+591,Ultra Vacuum cleaner,Lenovo,Constructions,1712,9
+592,Ultra Washing machine,Emerson,Constructions,1330,5
+593,Inkjet printer,ReMarkable,Appliance,2450,6
+594,Ultra Floor lamp,Yamaha,House Items,1464,2
+595,Ultra Rice cooker,Hama,House Items,2343,3
+596,Super Drill,Toshiba,House Items,2499,15
+597,Grandfather clock,Bosch,House Items,150,3
+598,Black Series Lift,DeWalt,IT,325,8
+599,Super Television,DeWalt,Appliance,2776,4
+600,Ultra Lift,Toshiba,IT,2620,3
+601,Black Series Lift,Emerson,House Items,191,11
+602,Super Radiator,Asus,Constructions,2341,2
+603,Black Series Projector,Philips,House Items,2903,2
+604,Super Torch,Asus,Appliance,2406,13
+605,Black Series Exhaust fan,Bosch,Constructions,1296,1
+606,Chandelier,Toshiba,IT,1045,4
+607,Electric stove,Nokia,Appliance,2971,11
+608,Ultra Drill,Nokia,IT,1184,11
+609,Black Series Walkie-talkie,Logitech,IT,999,14
+610,Black Series Pressure cooker,DeWalt,Constructions,682,11
+611,Black Series Facial cleansing machine,Nokia,Appliance,1095,11
+612,Ultra Remote control,DeWalt,Constructions,1711,5
+613,Chandelier,ReMarkable,Appliance,2555,2
+614,Safe,Samsung,Appliance,1257,9
+615,Black Series Water pumps,Samsung,IT,1811,8
+616,Ultra Torch,Asus,IT,2047,8
+617,Black Series Banknote counter,Yamaha,Appliance,2811,15
+618,Black Series Electric guitar,ReMarkable,Appliance,2071,8
+619,Ultra Microwave,DeWalt,House Items,2925,2
+620,Ultra Fax,Samsung,Constructions,325,6
+621,Ultra Wifi modem,Philips,IT,1812,12
+622,Television,ReMarkable,IT,532,6
+623,Ultra Dvd player,DeWalt,Appliance,1312,15
+624,Refrigerator,Logitech,Constructions,1128,2
+625,Super Iron,Apple,Constructions,2946,8
+626,Ultra Doorbell camera,Huawei,Appliance,2503,7
+627,Black Series Remote control,Nokia,IT,1871,3
+628,Ultra Reading lamp,Apple,House Items,2688,2
+629,Ultra Copier,Nintendo,Appliance,1717,3
+630,Black Series Plotter,Huawei,House Items,1860,7
+631,Black Series Alarm clock,Samsung,Constructions,57,6
+632,Ultra Projector,Apple,IT,1567,9
+633,Super Scale,Toshiba,House Items,2997,10
+634,Ultra Iron,Nintendo,Constructions,1305,2
+635,Black Series Computer,Philips,Appliance,788,14
+636,Mouse,Yamaha,House Items,296,15
+637,Black Series Water purifier,Logitech,House Items,1834,4
+638,Smartphone,DeWalt,Appliance,843,9
+639,Fan,Philips,Appliance,2271,10
+640,Black Series Air conditioner,Toshiba,IT,620,2
+641,Ultra USB drive,Hama,Appliance,1142,8
+642,Electric stove,Asus,IT,903,4
+643,Super Mouse,Emerson,Constructions,738,6
+644,Electric guitar,Hama,House Items,1957,2
+645,Ultra Timer,ReMarkable,IT,2457,9
+646,Speakers,Hama,Appliance,2660,14
+647,Watch,Hama,IT,2033,4
+648,Black Series Grandfather clock,DeWalt,Appliance,946,4
+649,Black Series Projector,Asus,Constructions,471,14
+650,Meat grinder,Yamaha,House Items,1440,15
+651,Ultra Air purifier,Asus,IT,712,10
+652,Super USB drive,Nintendo,Appliance,1326,6
+653,Floor lamp,Asus,House Items,2650,7
+654,Ultra Electric razor,Asus,Appliance,1915,3
+655,Ultra Printer,Nokia,Appliance,1929,9
+656,Washing machine,Asus,Appliance,2693,9
+657,Smart television,Toshiba,Constructions,133,14
+658,Safe,Yamaha,Appliance,2635,5
+659,Mosquito racket,Nintendo,Appliance,2364,15
+660,Ultra Radio,Bosch,IT,1210,4
+661,Super Coffee maker,Samsung,IT,860,11
+662,Copier,Nokia,Appliance,2136,3
+663,Black Series Fish tank,Bosch,IT,2418,4
+664,Ultra Car toy,Toshiba,Constructions,2008,15
+665,Black Series Backup charger,DeWalt,IT,2671,5
+666,Ultra Chandelier,Lenovo,Appliance,60,4
+667,Ultra Reading lamp,Samsung,Constructions,1274,2
+668,Black Series Wifi modem,Apple,Appliance,827,4
+669,Super Backup charger,Huawei,IT,685,4
+670,Super Bread maker,Hama,House Items,2212,14
+671,Ultra Vacuum cleaner,Samsung,Constructions,1748,4
+672,Chandelier,Philips,Appliance,797,15
+673,Mp3 player,Logitech,Constructions,2652,13
+674,Super Remote control,Bosch,Constructions,1437,2
+675,Black Series Pressure cooker,Samsung,Constructions,2600,11
+676,Super Sewing machine,Huawei,Appliance,1967,13
+677,Microphone,Hama,Appliance,1242,12
+678,Ultra Microwave,Toshiba,Appliance,1220,6
+679,Super Mosquito racket,Bosch,Constructions,838,11
+680,Black Series Monitor,Toshiba,Appliance,907,14
+681,Fan,Toshiba,Constructions,2240,6
+682,Black Series Mp3 player,Bosch,House Items,1614,6
+683,Super iPod,Nintendo,House Items,2897,13
+684,Ultra Walkie-talkie,Lenovo,House Items,1007,9
+685,Ultra Dishwasher,Yamaha,Appliance,1419,7
+686,Ultra Radiator,Logitech,IT,2055,2
+687,Ultra Water pumps,Philips,Constructions,2024,7
+688,Dishwasher,Asus,Constructions,1210,12
+689,Ultra Copier,DeWalt,House Items,1810,13
+690,Mosquito racket,Hama,Appliance,2969,1
+691,Black Series Fax,Nokia,Appliance,63,6
+692,Sewing machine,Lenovo,Constructions,1097,6
+693,iPod,Philips,Constructions,652,4
+694,Super Wifi modem,ReMarkable,IT,1923,13
+695,Super Bluetooth speaker,Apple,Appliance,256,11
+696,Tablet,Apple,Constructions,1609,14
+697,Piano,DeWalt,Constructions,2257,10
+698,Watch,Toshiba,House Items,610,11
+699,Black Series Oil-free fryer,Emerson,IT,2375,4
+700,Iron,ReMarkable,House Items,2936,14
+701,Super Drill,Bosch,IT,1413,1
+702,Super Electric stove,ReMarkable,Appliance,1831,6
+703,Ultra Safe,Samsung,House Items,2780,4
+704,Electric stove,ReMarkable,IT,1817,2
+705,Alarm clock,Yamaha,House Items,1679,10
+706,Air purifier,Emerson,House Items,2374,6
+707,Black Series Computer,DeWalt,Appliance,2043,3
+708,Ultra Washing machine,Asus,Constructions,2480,7
+709,Black Series Banknote counter,Emerson,Constructions,631,9
+710,Black Series Fax,Toshiba,Appliance,588,8
+711,Ultra Walkie-talkie,DeWalt,House Items,2538,2
+712,Super Banknote counter,Toshiba,House Items,1965,1
+713,Ceiling fan,Toshiba,Constructions,1408,6
+714,Piano,DeWalt,House Items,1484,4
+715,Fan,Logitech,Appliance,2295,2
+716,Torch,Logitech,House Items,570,13
+717,Torch,Philips,IT,1373,6
+718,USB drive,Nintendo,Constructions,617,12
+719,Ultra iPod,Huawei,House Items,1754,11
+720,Black Series Torch,Huawei,Appliance,2551,13
+721,Ultra Piano,Nintendo,Constructions,1756,4
+722,Black Series Exhaust fan,Huawei,House Items,1903,15
+723,Ultra Lift,Asus,House Items,2028,1
+724,Piano,Philips,Appliance,431,6
+725,Black Series Water pumps,Samsung,IT,1091,6
+726,Ultra Plotter,Toshiba,Appliance,1254,14
+727,Ultra Car toy,Nintendo,IT,845,14
+728,Ultra Grandfather clock,Philips,Appliance,533,7
+729,Super Wall fan,Hama,IT,1722,10
+730,Super Wifi modem,Nintendo,Constructions,1547,4
+731,Ultra Sewing machine,Hama,Constructions,2297,4
+732,Black Series Timer,Samsung,Constructions,255,2
+733,Reading lamp,Lenovo,House Items,1312,4
+734,Ultra Air purifier,Nokia,Constructions,2264,2
+735,Super Washing machine,Nokia,Constructions,2784,5
+736,Black Series Remote control,Huawei,House Items,1023,14
+737,Black Series Sandwich maker,Samsung,Appliance,2921,5
+738,Ultra Bread maker,Nokia,Constructions,2588,1
+739,Super Juicer,Emerson,House Items,2746,7
+740,iPod,Apple,IT,715,6
+741,Super Monitor,Samsung,IT,1311,9
+742,Super Juicer,Nintendo,Constructions,1741,2
+743,Ultra Walkie-talkie,Emerson,House Items,2619,7
+744,Super Calculator,Huawei,IT,2733,4
+745,Super Mp3 player,DeWalt,Constructions,1425,10
+746,Ultra Refrigerator,Logitech,Constructions,297,13
+747,Ultra Dishwasher,Bosch,Appliance,1246,13
+748,Super Water heater,Samsung,Constructions,2535,14
+749,Super Earphones,Yamaha,Appliance,2818,2
+750,Black Series Remote control,Yamaha,IT,438,8
+751,Super Mp3 player,Asus,House Items,2220,11
+752,Projector,Toshiba,IT,1255,11
+753,Mixer,Nokia,Constructions,954,13
+754,Ultra Electric frying pan,Nintendo,House Items,2961,11
+755,Super Fan,Yamaha,House Items,1892,10
+756,Safe,Samsung,House Items,799,8
+757,Kitchen scale,Emerson,IT,814,3
+758,Super Kitchen scale,Samsung,Constructions,106,9
+759,Black Series Remote control,Asus,Constructions,1091,13
+760,Super Walkie-talkie,Nintendo,Constructions,709,9
+761,Super Safe,Samsung,IT,1014,5
+762,Super Projector,Huawei,IT,1777,11
+763,Electric frying pan,Toshiba,House Items,1446,10
+764,Refrigerator,Huawei,House Items,1975,8
+765,Black Series Timer,Nintendo,IT,2163,10
+766,Super Mosquito racket,Nokia,Constructions,2919,5
+767,Super Oven,Hama,Constructions,2411,7
+768,Black Series Drill,Nintendo,House Items,397,4
+769,Lawn mower,Lenovo,Appliance,1301,3
+770,Black Series Plotter,Apple,Constructions,491,12
+771,Watch,Bosch,IT,1273,5
+772,Ultra Juicer,Philips,IT,1985,3
+773,Drill,Hama,IT,1693,7
+774,Water purifier,Logitech,Appliance,828,6
+775,Ultra Water pumps,Bosch,House Items,201,5
+776,Ultra Smartphone,Huawei,Appliance,1619,2
+777,Ultra Air conditioner,Hama,House Items,2550,3
+778,Ultra Wall fan,ReMarkable,House Items,2507,3
+779,Black Series Drill,Bosch,Appliance,2573,11
+780,Webcam,Yamaha,House Items,1471,8
+781,Super Torch,DeWalt,House Items,359,4
+782,Super Electric grill,Lenovo,House Items,2312,3
+783,Banknote counter,Hama,IT,1345,14
+784,Super Kitchen scale,Samsung,Appliance,98,10
+785,Ultra Chandelier,Lenovo,House Items,1237,2
+786,Ultra Scale,ReMarkable,House Items,960,1
+787,Ultra Garage,Bosch,Constructions,2155,10
+788,Television,Asus,IT,679,11
+789,Super Bread maker,Nokia,IT,2255,11
+790,Super Torch,Huawei,House Items,1923,13
+791,Super Curling iron,Hama,House Items,1230,6
+792,Ultra Bluetooth speaker,DeWalt,Constructions,2320,5
+793,Doorbell camera,ReMarkable,House Items,411,6
+794,Super Calculator,Hama,Constructions,1495,9
+795,Ultra Banknote counter,Nintendo,IT,2959,9
+796,Super Printer,Yamaha,Constructions,2403,8
+797,Black Series Sewing machine,Nokia,IT,2823,15
+798,Ultra Headset,Apple,IT,2294,13
+799,Ultra Torch,Emerson,Appliance,2765,12
+800,Radio,Logitech,Appliance,303,13
+801,Black Series Electric guitar,Bosch,House Items,2829,8
+802,Sandwich maker,Nokia,Constructions,512,2
+803,Ultra Microphone,ReMarkable,IT,236,8
+804,Black Series Torch,Nintendo,IT,2592,7
+805,Fish tank,Samsung,House Items,1891,3
+806,Dvd player,Logitech,Constructions,1213,15
+807,Torch,Emerson,House Items,2957,6
+808,Webcam,Emerson,House Items,1191,14
+809,Piano,Hama,House Items,2052,9
+810,Black Series Toaster,Emerson,House Items,2780,9
+811,Black Series Banknote counter,Toshiba,House Items,2036,5
+812,Super Electric guitar,Yamaha,Appliance,1725,1
+813,Black Series Pressure cooker,Yamaha,IT,591,7
+814,Ultra Electric frying pan,ReMarkable,IT,2356,7
+815,Toaster,Toshiba,Constructions,505,3
+816,Super Curling iron,Toshiba,House Items,2674,4
+817,Ultra Backup charger,Samsung,IT,588,12
+818,Ultra Lift,Toshiba,IT,2953,1
+819,Ultra Sandwich maker,Huawei,Appliance,1517,2
+820,Super Clock,Apple,Appliance,1617,10
+821,Super Iron,Apple,Constructions,868,14
+822,Ceiling fan,Nintendo,House Items,438,13
+823,Ultra Alarm clock,Bosch,Constructions,963,10
+824,Black Series Microphone,Nintendo,IT,1126,15
+825,Black Series iPod,Bosch,IT,2616,13
+826,Water heater,Hama,IT,1539,1
+827,Super Exhaust fan,Huawei,Constructions,1169,6
+828,Super Grandfather clock,Nokia,Constructions,63,6
+829,Super Radiator,Hama,IT,2095,2
+830,Black Series Washing machine,Emerson,Constructions,1028,4
+831,Vacuum cleaner,Huawei,House Items,1888,13
+832,Ultra Drill,Nokia,House Items,1111,6
+833,Super Juicer,Logitech,IT,605,14
+834,Ultra Remote control,Samsung,Constructions,397,12
+835,Mp3 player,Yamaha,House Items,1974,1
+836,Oven,Bosch,Constructions,346,5
+837,Electric guitar,Yamaha,House Items,341,13
+838,Black Series Grandfather clock,DeWalt,IT,1776,14
+839,Black Series iPod,Philips,IT,582,9
+840,Lawn mower,Bosch,Appliance,659,14
+841,Black Series Garage,Huawei,House Items,2051,2
+842,Ultra Robotic vacuum cleaner,ReMarkable,House Items,2367,10
+843,Ultra Toaster,Asus,Constructions,1951,14
+844,Ultra Dvd player,Bosch,Constructions,1847,4
+845,Ultra External hard drive,ReMarkable,Appliance,1888,15
+846,Super Wifi modem,DeWalt,Constructions,916,14
+847,Black Series iPod,Bosch,Constructions,809,8
+848,Ultra Monitor,DeWalt,House Items,355,7
+849,Ultra Microphone,DeWalt,IT,2391,1
+850,Super Electric grill,Emerson,Constructions,1127,3
+851,Safe,Nokia,Constructions,1067,15
+852,Black Series Oven,Apple,Appliance,1066,15
+853,Chandelier,Emerson,House Items,2250,13
+854,Super Electric razor,Yamaha,IT,2392,6
+855,Black Series Monitor,Apple,Constructions,1621,8
+856,Black Series Speakers,Hama,IT,1938,8
+857,Black Series Curling iron,Bosch,Constructions,1820,15
+858,Black Series Iron,Philips,Appliance,2170,3
+859,Rice cooker,Samsung,House Items,2488,4
+860,Black Series Torch,Nokia,Appliance,2177,15
+861,Black Series Water heater,Logitech,House Items,224,4
+862,Radio,Lenovo,IT,568,2
+863,Super Garage,Samsung,Constructions,1235,1
+864,Facial cleansing machine,Nintendo,IT,2615,7
+865,Ultra Doorbell camera,DeWalt,Appliance,277,2
+866,Black Series Oil-free fryer,Huawei,IT,2373,10
+867,Ultra Banknote counter,DeWalt,House Items,2394,6
+868,Black Series Water heater,Philips,House Items,2165,13
+869,Super Bulb,Yamaha,House Items,935,4
+870,Ultra USB drive,Philips,Appliance,1582,7
+871,Floor lamp,DeWalt,House Items,574,5
+872,Inkjet printer,Samsung,IT,2888,5
+873,Remote control,DeWalt,House Items,583,3
+874,Ultra Mixer,Lenovo,Constructions,314,6
+875,Super Clock,Nokia,Constructions,1344,8
+876,Electric guitar,Hama,House Items,2002,9
+877,Ultra Scale,Huawei,House Items,1408,3
+878,Black Series Refrigerator,Yamaha,Constructions,1931,7
+879,Rice cooker,Yamaha,Appliance,2339,8
+880,Ultra Juicer,Lenovo,IT,2514,3
+881,Car toy,Philips,Constructions,2276,4
+882,Banknote counter,Philips,Constructions,2282,2
+883,Black Series Wall fan,Nokia,Constructions,941,2
+884,Super Speakers,Emerson,IT,2932,5
+885,Black Series Water pumps,Lenovo,House Items,1297,7
+886,Black Series Webcam,Yamaha,Constructions,2778,6
+887,Black Series Meat grinder,Huawei,IT,2815,14
+888,Super Vacuum cleaner,Asus,IT,1522,5
+889,Black Series Hair dryer,Hama,Constructions,498,12
+890,Ultra Chandelier,Asus,Appliance,911,5
+891,Black Series Juicer,Huawei,Appliance,1034,15
+892,Black Series Microphone,DeWalt,Constructions,1675,9
+893,Ultra Safe,Toshiba,Constructions,2769,12
+894,Ultra USB drive,Nintendo,Appliance,2266,2
+895,Super Air purifier,Logitech,IT,2170,9
+896,Radiator,Samsung,Appliance,515,11
+897,Black Series iPod,Huawei,IT,746,5
+898,Ultra Headset,Samsung,House Items,896,2
+899,Ultra Electric guitar,DeWalt,Constructions,2889,5
+900,Black Series Banknote counter,ReMarkable,Constructions,734,11
+901,Refrigerator,Logitech,IT,1744,13
+902,Black Series Mosquito racket,Hama,Appliance,2946,7
+903,Ultra Chandelier,Emerson,House Items,1457,1
+904,Black Series Backup charger,ReMarkable,House Items,1879,15
+905,Super Electric stove,Apple,Constructions,2163,12
+906,Super Hair straightening machine,Toshiba,IT,2132,6
+907,Ultra Scanner,Nintendo,Appliance,174,11
+908,Black Series Exhaust fan,Asus,Constructions,1546,4
+909,Super iPod,Yamaha,House Items,1979,5
+910,Super Mosquito racket,Asus,Appliance,468,12
+911,Juicer,Huawei,IT,1993,6
+912,Sewing machine,Lenovo,Appliance,815,11
+913,Lawn mower,Yamaha,Appliance,261,15
+914,Black Series Printer,Samsung,Constructions,957,7
+915,Ultra Rice cooker,Philips,Constructions,749,6
+916,Tablet,Yamaha,Appliance,858,4
+917,Super Microwave,DeWalt,IT,1166,8
+918,Car toy,Huawei,IT,456,5
+919,Laser printer,Apple,Appliance,1207,1
+920,Ultra Facial cleansing machine,Asus,IT,2522,12
+921,Super Fish tank,Yamaha,IT,2497,13
+922,Electric grill,Philips,Constructions,663,7
+923,Super Fax,Asus,Appliance,476,3
+924,Super Doorbell camera,Philips,IT,2133,4
+925,Black Series Hair straightening machine,Hama,Appliance,2230,13
+926,Super Chandelier,ReMarkable,Constructions,1341,15
+927,Monitor,Toshiba,Appliance,2511,14
+928,Ceiling fan,Toshiba,House Items,1827,13
+929,Ultra Mouse,Nokia,IT,585,9
+930,Black Series Doorbell camera,Yamaha,House Items,1072,2
+931,Mosquito racket,Asus,House Items,2841,5
+932,Laser printer,Lenovo,House Items,2365,4
+933,Clothes dryer,Asus,IT,1031,2
+934,Black Series Bulb,Logitech,IT,732,8
+935,Ultra Rice cooker,Logitech,IT,841,8
+936,Black Series Mouse,Apple,Appliance,1537,13
+937,Super Fan,Apple,IT,254,2
+938,Ultra Scanner,Bosch,Appliance,2061,3
+939,Black Series Bulb,Huawei,Constructions,2120,15
+940,Ultra Tablet,Hama,IT,124,8
+941,Black Series Monitor,Huawei,Constructions,2368,6
+942,Super Backup charger,Toshiba,Constructions,1772,4
+943,Ultra Mixer,Huawei,IT,178,15
+944,Ultra Water purifier,Toshiba,Appliance,1732,5
+945,Super Wall fan,Huawei,Constructions,930,10
+946,Ultra Kitchen scale,Nintendo,IT,1089,10
+947,Super Chandelier,Samsung,Constructions,1148,15
+948,Water pumps,Emerson,Appliance,155,13
+949,Black Series Backup charger,Toshiba,Constructions,184,4
+950,Black Series Electric razor,Hama,Constructions,1109,5
+951,Webcam,Huawei,House Items,2802,13
+952,Black Series Safe,Huawei,IT,1138,5
+953,Ultra Clothes dryer,Bosch,House Items,1041,9
+954,Super Electric razor,Hama,IT,2543,3
+955,Bluetooth speaker,Samsung,IT,2303,11
+956,Super Game controller,Bosch,House Items,2132,1
+957,Ultra Headset,Bosch,Constructions,2433,12
+958,Ultra Clothes dryer,Logitech,IT,362,11
+959,Black Series USB drive,Nintendo,Appliance,2156,10
+960,Reading lamp,Huawei,Appliance,1153,4
+961,Black Series Electric stove,Nintendo,Appliance,1811,6
+962,Ultra Timer,Samsung,IT,1962,12
+963,Super Electric pencil sharpener,ReMarkable,House Items,1066,3
+964,Black Series Remote control,Toshiba,Appliance,1536,10
+965,Backup charger,ReMarkable,Constructions,1362,10
+966,Super Vacuum cleaner,Lenovo,House Items,622,6
+967,Super Bread maker,Nintendo,IT,2696,3
+968,Ultra Microwave,ReMarkable,Appliance,1596,12
+969,Reading lamp,Huawei,IT,830,12
+970,Black Series Copier,Philips,House Items,1916,15
+971,Watch,Logitech,House Items,2847,12
+972,Ultra Electric stove,Apple,House Items,2851,15
+973,Black Series Electric razor,Emerson,IT,137,14
+974,Super Electric pencil sharpener,Hama,House Items,84,9
+975,Ultra Remote control,ReMarkable,Appliance,2981,5
+976,Ultra Smartphone,Asus,Constructions,761,2
+977,Super Projector,Bosch,IT,1515,9
+978,Facial cleansing machine,DeWalt,IT,2518,12
+979,Black Series Smartphone,Hama,IT,1349,12
+980,Ultra Ceiling fan,Huawei,Constructions,1961,15
+981,Black Series Toaster,Philips,Constructions,1332,8
+982,Black Series Electric guitar,Nintendo,House Items,2818,13
+983,Ultra Water heater,Lenovo,House Items,818,10
+984,Black Series Tablet,Apple,Appliance,2553,1
+985,Ultra Safe,Apple,Constructions,2423,9
+986,Black Series Microwave,Logitech,Constructions,866,7
+987,Black Series Oven,Emerson,IT,2124,7
+988,Black Series Clock,Apple,House Items,2359,13
+989,Black Series Blender,Philips,Appliance,2021,15
+990,Ultra Fan,Emerson,House Items,800,13
+991,Super Coffee maker,Nokia,IT,2515,14
+992,Super Sandwich maker,Yamaha,House Items,599,14
+993,Ultra Electric guitar,Samsung,IT,1339,11
+994,Super Coffee maker,Huawei,Constructions,1488,3
+995,Ultra USB drive,Lenovo,Constructions,2810,2
+996,Hair straightening machine,Huawei,House Items,1020,6
+997,Super Smartphone,DeWalt,Appliance,2858,9
+998,Tablet,Samsung,House Items,1627,4
+999,Ultra Hair straightening machine,Huawei,House Items,1374,3
+1000,Black Series Refrigerator,Samsung,Constructions,1804,10
